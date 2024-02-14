@@ -4,7 +4,7 @@ Welcome to BUYOUT, where fashion meets convenience!
 About Us
 BUYOUT is your go-to online destination for the latest trends in shoes and clothing. We pride ourselves on offering a carefully curated selection of high-quality products to satisfy every style and preference. From classic sneakers to trendy apparel, we've got everything you need to elevate your wardrobe.
 
-Features
+Features <br>
 Wide Selection: Explore our extensive collection of shoes and clothing items, meticulously selected to cater to diverse tastes and preferences.
 User-Friendly Interface: Our intuitive website design ensures a seamless shopping experience, with easy navigation and convenient filtering options.
 Secure Transactions: Shop with confidence knowing that your personal and financial information is protected by state-of-the-art encryption technology.
